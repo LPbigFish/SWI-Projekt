@@ -4,7 +4,8 @@ Systém má sloužit k vytvoření objednávky z denního menu pro jednoho nebo 
 
 ### Moduly systému:
 - Týdenní menu
-- 
+- Rezervační stránka
+- Aktivní rezervace
 
 ### Aktéři:
 - Zákazníci - základní přístup k rezervaci na svůj účet
