@@ -10,6 +10,7 @@ Systém má sloužit k vytvoření objednávky z denního menu pro jednoho nebo 
 - Aktivní rezervace
 - Upomínky na rezervaci
 - Stavba menu
+- Vystavování seznamu pro zaměstnance
 
 <hr>
 
