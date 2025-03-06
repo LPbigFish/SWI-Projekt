@@ -5,11 +5,11 @@ Systém slouží k vytvoření objednávky z denního menu pro jednoho či více
 ---
 
 ### Moduly systému
-- Týdenní menu  
-- Rezervace menu  
-- Aktivní rezervace  
-- Upomínky na rezervaci  
-- Stavba menu  
+- Zobrazení týdenního menu  
+- Rezervace menu
+- Zobrazení aktivních rezervace  
+- Posílání upomínek na rezervaci  
+- Stavba menu
 - Vystavování seznamu pro zaměstnance  
 
 ---
