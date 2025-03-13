@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram name="Page-1" id="sNaJygLbXFtw542VB7wn">
     <mxGraphModel dx="1793" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -19,6 +19,44 @@
               <mxPoint x="95" y="160" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7dIA9PJ9CozttT9-OGHV" name="Třídové diagramy">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Popisky&lt;/h1&gt;&lt;div&gt;- private&lt;/div&gt;&lt;div&gt;+ public&lt;/div&gt;&lt;div&gt;# protected&lt;/div&gt;&lt;div&gt;~ package&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-4" value="" style="endArrow=diamond;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="210" as="sourcePoint" />
+            <mxPoint x="20" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Agregace&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-6" value="" style="endArrow=diamond;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="20" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Compozice&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="180" as="sourcePoint" />
+            <mxPoint x="120" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGQjIzzoCjE2zBGrb2fb-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Asociace&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
