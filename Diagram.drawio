@@ -52,7 +52,7 @@
             <mxPoint x="250" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TMPaXky26tmGsYNh6968-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMPaXky26tmGsYNh6968-12">
+        <mxCell id="TMPaXky26tmGsYNh6968-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJxZoZBO2yzClJJqKiH--3" target="TMPaXky26tmGsYNh6968-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="90" as="sourcePoint" />
             <mxPoint x="300" y="160" as="targetPoint" />
@@ -133,7 +133,7 @@
             <mxPoint x="400" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TMPaXky26tmGsYNh6968-48" value="Úprava jídel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TMPaXky26tmGsYNh6968-48" value="Úprava menu a položek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TMPaXky26tmGsYNh6968-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMPaXky26tmGsYNh6968-7" target="TMPaXky26tmGsYNh6968-48">
