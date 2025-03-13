@@ -61,15 +61,6 @@
         <mxCell id="TMPaXky26tmGsYNh6968-21" value="Vybrání datumu, počtu lidí, jídel a stolů" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TMPaXky26tmGsYNh6968-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="TMPaXky26tmGsYNh6968-21" target="TMPaXky26tmGsYNh6968-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="70" as="sourcePoint" />
-            <mxPoint x="800" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TMPaXky26tmGsYNh6968-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TMPaXky26tmGsYNh6968-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TMPaXky26tmGsYNh6968-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJxZoZBO2yzClJJqKiH--3" target="TMPaXky26tmGsYNh6968-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="90" as="sourcePoint" />
@@ -158,6 +149,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="94.5" y="580" as="sourcePoint" />
             <mxPoint x="94.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMPaXky26tmGsYNh6968-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMPaXky26tmGsYNh6968-21" target="TMPaXky26tmGsYNh6968-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="270" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
