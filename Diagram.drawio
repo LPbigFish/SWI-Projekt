@@ -274,7 +274,7 @@
             <mxPoint x="12" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ts1_me9xYF3poTz3s2df-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=diamond;endFill=0;endSize=14;" edge="1" parent="1" source="pNJlrP5_HUwI-zH683UY-4" target="pNJlrP5_HUwI-zH683UY-3">
+        <mxCell id="ts1_me9xYF3poTz3s2df-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=14;startFill=0;" edge="1" parent="1" source="pNJlrP5_HUwI-zH683UY-4" target="pNJlrP5_HUwI-zH683UY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pNJlrP5_HUwI-zH683UY-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# uuid : number&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# name : text&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# surname : text&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# phonenumber : text&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# email : text&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ add_email( email : text ) : void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
