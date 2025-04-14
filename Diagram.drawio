@@ -509,16 +509,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="74uMAWVrRSIEwoSg2fhV-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="160" width="20" height="850" as="geometry" />
+          <mxGeometry x="920" y="160" width="20" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="74uMAWVrRSIEwoSg2fhV-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="160" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="74uMAWVrRSIEwoSg2fhV-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="160" width="20" height="850" as="geometry" />
+          <mxGeometry x="745" y="160" width="20" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="74uMAWVrRSIEwoSg2fhV-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1351" y="480" width="20" height="70" as="geometry" />
+          <mxGeometry x="1351" y="480" width="20" height="730" as="geometry" />
         </mxCell>
         <mxCell id="98ZOvyj40Z6AKaxgxQRb-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -598,7 +598,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98ZOvyj40Z6AKaxgxQRb-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1131" y="560.57" width="20" height="449.43" as="geometry" />
+          <mxGeometry x="1131" y="560.57" width="20" height="649.43" as="geometry" />
         </mxCell>
         <mxCell id="5hjWedgKp8nlsffbNNDv-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.045;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -746,6 +746,39 @@
         <mxCell id="v4YPZrP495u_iwhpE0M--19" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v4YPZrP495u_iwhpE0M--18" vertex="1" connectable="0">
           <mxGeometry x="0.0426" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="765" y="911" as="sourcePoint" />
+            <mxPoint x="919" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-2" value="Vybrat Jídlo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bEfBmkbbPxi4aLDO19D9-1">
+          <mxGeometry x="-0.2527" relative="1" as="geometry">
+            <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="921" as="sourcePoint" />
+            <mxPoint x="1130" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-6" value="Přidat jídlo do rezervace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="bEfBmkbbPxi4aLDO19D9-5">
+          <mxGeometry x="-0.0662" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1151" y="931" as="sourcePoint" />
+            <mxPoint x="1350" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEfBmkbbPxi4aLDO19D9-8" value="Odečíst dostupné množství" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="bEfBmkbbPxi4aLDO19D9-7">
+          <mxGeometry x="-0.0662" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
